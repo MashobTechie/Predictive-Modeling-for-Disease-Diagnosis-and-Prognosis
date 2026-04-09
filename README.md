@@ -1,5 +1,4 @@
-# Predictive-Modeling-for-Disease-Diagnosis-and-Prognosis
-# Predictive Modeling for Disease Diagnosis and Prognosis
+ # Predictive Modeling for Disease Diagnosis and Prognosis
 ### A Stochastic Process Approach | Statistics 300L Project
 
 ---
